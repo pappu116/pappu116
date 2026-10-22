@@ -13,7 +13,7 @@
 
 ## 👋 Hi, I'm Pappu Hasan
 
-**React Frontend Developer** from **Rajshahi, Bangladesh** 🇧🇩 — I build fast, responsive and pixel-perfect web interfaces with **React & Next.js**. 2+ years of hands-on experience turning ideas and designs into clean, working products.
+**React Frontend Developer** from **Rajshahi, Bangladesh** 🇧🇩 — I build fast, responsive and pixel-perfect web interfaces with **React & Next.js**. 7+ years of hands-on experience turning ideas and designs into clean, working products.
 
 > 💬 *"আমি কথায় নয়, কাজে বিশ্বাস রাখি — সময়মতো ডেলিভারি, পরিষ্কার কোড।"*
 
