@@ -43,7 +43,7 @@
 
 ## 💡 Why Work With Me
 
-- ✅ **2+ years** of hands-on frontend development experience
+- ✅ **7+ years** of hands-on frontend development experience
 - ✅ **200+ commits** in the last year — I code consistently, not occasionally
 - ✅ **Clean, documented code** — every project properly structured & maintained
 - ✅ **On-time delivery** with clear communication from day one
@@ -75,10 +75,10 @@
 
 <!-- ⚠️ রিপোর নাম যদি ভিন্ন হয় (যেমন personal-website না থাকে), URL-এর রিপো নাম বদলে দিন -->
 
-<a href="https://github.com/pappu116/Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pappu116&repo=Portfolio&theme=radical&hide_border=true" width="49%" /></a><a href="https://github.com/pappu116/UNIVERSAL-INVENTORY"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pappu116&repo=UNIVERSAL-INVENTORY&theme=radical&hide_border=true" width="49%" /></a>
-<a href="https://github.com/pappu116/web-portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pappu116&repo=web-portfolio&theme=radical&hide_border=true" width="49%" /></a><a href="https://github.com/pappu116/personal-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pappu116&repo=personal-website&theme=radical&hide_border=true" width="49%" /></a>
+<a href="https://github.com/pappu116/Portfolio1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pappu116&repo=Portfolio1&theme=radical&hide_border=true" width="49%" /></a><a href="https://github.com/pappu116/UNIVERSAL-INVENTORY"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pappu116&repo=UNIVERSAL-INVENTORY&theme=radical&hide_border=true" width="49%" /></a>
+<a href="https://github.com/pappu116/ytbotglm5"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pappu116&repo=ytbotglm5&theme=radical&hide_border=true" width="49%" /></a><a href="https://github.com/pappu116/e-comerce"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pappu116&repo=e-comerce&theme=radical&hide_border=true" width="49%" /></a>
 
-🌐 **Live Demo:** [pappu116.github.io/web-portfolio](https://pappu116.github.io/web-portfolio)
+🌐 **Live Demo:** [pappu116.github.io/web-portfolio](https://pappu116.github.io/Portfolio1)
 
 ## 📊 GitHub Stats
 
